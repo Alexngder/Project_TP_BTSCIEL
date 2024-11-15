@@ -1,4 +1,4 @@
-/* CONNECTION DE CPLUSPLUS A UNE BDD SUR MYSQL */
+/* CONNECTION DE CPLUSPLUS A UNE BDD SUR MYSQL dans le cours M Narelli */
 
 /* Les includes à placer ci-dessous */
 #include <stdlib.h>
